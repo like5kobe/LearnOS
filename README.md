@@ -13,5 +13,5 @@ javac test.java  java test
  2. 解决进程间的同步与互斥
  
  
- ##stringBuilder和stringBuffer  
+ ## stringBuilder和stringBuffer  
    线程安全性的问题 Builder源码函数getChar()里没有同步锁
