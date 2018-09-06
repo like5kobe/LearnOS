@@ -15,3 +15,7 @@ javac test.java  java test
  
  ## stringBuilder和stringBuffer  
    线程安全性的问题 Builder源码函数getChar()里没有同步锁
+
+## 分段和分页
+ 程序加载到内存中，由于空间不足的问题，通过分页表的索引与内存管理单元（MMU）进行调度
+ 
