@@ -19,6 +19,6 @@ javac test.java  java test
 ## 分段和分页
  程序加载到内存中，由于空间不足的问题，通过分页表的索引与内存管理单元（MMU）进行调度
  
- ##java虚拟机中字符串的方法intern()的使用
+ ## java虚拟机中字符串的方法intern()的使用
   （https://blog.csdn.net/soonfly/article/details/70147205）
  
