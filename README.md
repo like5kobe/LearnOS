@@ -24,6 +24,6 @@
  
 ### 装载、链接与库
 
-    ELF和DLL
+    ELF和DLL PE
     
     
